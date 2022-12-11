@@ -35,14 +35,14 @@ span.a{
   text-align: center;
   margin-top: 15px;
   margin-bottom: 10px;
-  box-shadow: 0 10px 10px #fbb6c1;
+  box-shadow: 0 10px 30px #fbb6c1;
   transition: all 0.5s ease-in-out;
   
 }
 #logo1:hover{
   
   cursor: pointer;
-  box-shadow: 0 10px 30px #f159aa;
+  box-shadow: 0 10px 40px #f159aa;
   
 }
 .nav-item a{
@@ -442,8 +442,8 @@ div.gallerya img:hover {
   
 }
 #linkicon:hover{
-  border: 2px solid #f252d7;
-  border-radius: 15px;
+  
+  
   color:#f159aa;
 }
 .form-control{
